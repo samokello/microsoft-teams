@@ -1,0 +1,22 @@
+body{
+background-color:none;
+text-align:center;
+background-color:lightGrey;
+}
+p{
+text-transform:capitalize;
+font-weight:bold;
+}
+.pp{
+text-decoration:none;
+/* background-color:; */
+width:300px;
+}
+.pp{
+border:none;
+margin:0 auto;
+padding:50px;
+}
+/* input[type="text"] */
+
+
